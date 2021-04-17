@@ -1,0 +1,26 @@
+<table>
+  <colgroup>
+    <col span="2" style="background-color: gray;">
+    <col span="1" style="background-color: green;">
+  </colgroup>
+  <colgroup style="background-color: yellow;"></colgroup>
+  
+  <tr>
+    <th>Item</th>
+    <th>Price</th>
+    <th>Quantity</th>
+    <th>Memo</th>
+  </tr>
+  <tr>
+    <td>iPhone 11</td>
+    <td>$24,900</td>
+    <td>2</td>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <td>AirPods</td>
+    <td>$6,490</td>
+    <td>1</td>
+    <td>NA</td>
+  </tr>
+</table>
